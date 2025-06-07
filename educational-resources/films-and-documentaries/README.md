@@ -1,5 +1,5 @@
 ---
-title: "Films"
+title: "Films & Documentaries"
 layout: resource
 section: educational-resources
 description: |

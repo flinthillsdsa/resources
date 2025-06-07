@@ -1,6 +1,6 @@
 # Chapter Resources
 
-This directory contains public resrouces about the Flint Hills Chapter of Democratic Socialists.
+This directory contains public resoucres about the Flint Hills Chapter of Democratic Socialists.
 
 ## Table of Contents
 

@@ -1,5 +1,5 @@
 name: 📚 Resource Suggestion
-description: Suggest educational resources for the chapter library
+description: Suggest a single educational resources for the chapter library (use Bulk Resource Suggestion if you have multiple resources to suggest).
 title: "[RESOURCE] "
 labels: ["resource", "education", "needs-review"]
 assignees: []

@@ -8,7 +8,7 @@ description: "Written resources—books, zines, articles, and more—for studyin
 Welcome to the **Literature** directory, the hub for **written resources** that deepen our understanding of socialist theory, history, and practice. Here you’ll find everything from classic texts and peer-reviewed research to contemporary blog posts and magazine features—organized so you can start at your comfort level and build from there.
 
 <details>
-<summary>Reading Guides</summary>
+<summary>Reading Guides & Study Plans</summary>
   
 <br>
   
@@ -18,19 +18,24 @@ Welcome to the **Literature** directory, the hub for **written resources** that 
 
 [Marxism-Leninism-Maoism Basic Course](https://foreignlanguages.press/colorful-classics/marxism-leninism-maoism-basic-course-english/)
 
+[Basic Marx-Lenin Study Plan](https://www.github.com/flinthillsdsa/resrouces/learning-resrouces/literature/assets/marxleninbasics.md)
+
+[Marxism-Leninism Study Guide](https://marxistleninist.wordpress.com/study-guide/)
+
+[Revolutionary Communists of America reading guides for selected texts](https://communistusa.org/marxist-theory/reading-guides/)
 
   
 </details>
 
 
 <details>
-<summary>Intermediate</summary>
+<summary></summary>
 
   
 </details>
 
 <details>
-<summary>Advanced</summary>
+<summary></summary>
 
   
 </details>

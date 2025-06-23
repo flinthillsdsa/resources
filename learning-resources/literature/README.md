@@ -14,6 +14,10 @@ Welcome to the **Literature** directory, the hub for **written resources** that 
   
 [Beginner's Guide to Marxism](https://www.marxists.org/subject/students/index.htm)
 
+[Introduction to Marxist Dialectics](https://www.github.com/flinthillsdsa/resrouces/learning-resrouces/literature/assets/marxistdialectics.md)
+
+[Marxism-Leninism-Maoism Basic Course](https://foreignlanguages.press/colorful-classics/marxism-leninism-maoism-basic-course-english/)
+
 
   
 </details>

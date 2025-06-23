@@ -1,6 +1,6 @@
 ---
 Title: Courses
-Subtitle: 
+Subtitle: Free courses and lectures available online in text, video, or audio format.
 ---
 
 # Courses

@@ -59,12 +59,12 @@ In Marxist terms, **communism** is the end-state toward which socialist movement
 *Socialism is thus the transitional process (and set of institutions) that dismantles capitalist relations while preparing society for communism.*
 
 # How This Repository Is Organized
-- `literature/` – Foundational and contemporary texts, with “Start Here” suggestions for newcomers.  
+- `literature/` – Foundational and contemporary texts, with “Beginner” suggestions for newcomers.
+- `courses/` - Free Courses available online in text, video, or audio format.  
 - `videos/` – Documentaries, lectures, and explainers.  
 - `podcasts/` – Audio series covering theory, history, and current struggles.  
 - `primary-sources/` – Manifestos, party programs, speeches, and archival documents.  
 
-> **Tip:** Each subdirectory’s `README.md` includes tiered recommendations (Beginner → Intermediate → Advanced) and tagging for topics (e.g., *race & class*, *eco-socialism*, *labor history*) so you can chart your own learning path.
 
 ---
 

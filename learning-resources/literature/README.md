@@ -33,6 +33,8 @@ Welcome to the **Literature** directory, the hub for **written resources** that 
 <details>
 <summary>Book Clubs and Study Groups</summary>
 
+<br>
+
 [Kansas Socialist Book Club](https://kssocialistbookclub.com/home)
 
 [Marxist-Leninist Reading Hub](https://www.mlreadinghub.org/)

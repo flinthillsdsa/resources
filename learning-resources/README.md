@@ -60,7 +60,7 @@ In Marxist terms, **communism** is the end-state toward which socialist movement
 
 # How This Repository Is Organized
 - `literature/` – Foundational and contemporary texts, with “Beginner” suggestions for newcomers.
-- `courses/` - Free Courses available online in text, video, or audio format.  
+- `courses/` - Free courses and lectures available online in text, video, or audio format.  
 - `videos/` – Documentaries, lectures, and explainers.  
 - `podcasts/` – Audio series covering theory, history, and current struggles.  
 - `primary-sources/` – Manifestos, party programs, speeches, and archival documents.  

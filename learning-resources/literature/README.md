@@ -24,13 +24,18 @@ Welcome to the **Literature** directory, the hub for **written resources** that 
 
 [Revolutionary Communists of America reading guides for selected texts](https://communistusa.org/marxist-theory/reading-guides/)
 
+[From Marx to Mao](http://marx2mao.com/RG.html)
+
   
 </details>
 
 
 <details>
-<summary></summary>
+<summary>Book Clubs and Study Groups</summary>
 
+[Kansas Socialist Book Club](https://kssocialistbookclub.com/home)
+
+[Marxist-Leninist Reading Hub](https://www.mlreadinghub.org/)
   
 </details>
 

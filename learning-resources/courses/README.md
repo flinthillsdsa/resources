@@ -5,4 +5,12 @@ Subtitle:
 
 # Courses
 
+
 [Socialism 101](https://www.socialism101.com/)
+
+[Hillsdale College's Marxism, Socialism, and Communism Course](https://online.hillsdale.edu/courses/promo/marxism-socialism-communism)
+
+[TsinghuaX: Introduction to Mao Zedong Thought](https://www.edx.org/learn/communist-china/tsinghua-university-introduction-to-mao-zedong-thought-mao-ze-dong-si-xiang-gai-lun)
+
+
+
